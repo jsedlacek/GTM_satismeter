@@ -1,3 +1,4 @@
+const createArgumentsQueue = require('createArgumentsQueue');
 const injectScript = require('injectScript');
 const setInWindow = require('setInWindow');
 const getTimestamp = require('getTimestamp');
